@@ -3,8 +3,11 @@ https://saurav.tech/NewsAPI/
 
 # Features
 1.This app show latest news in RecyclerView.
+
 2.It is ucing an API to show latest news.
+
 3.It also shows The picture related to the news.
+
 4.You can read the headline from here.
 
 # Screenshots
